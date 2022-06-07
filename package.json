@@ -1,0 +1,8 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "A simple utility to scrape sites",
+  "main": "index.ts",
+  "author": "Bipul Adhikari",
+  "license": "MIT"
+}
