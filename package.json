@@ -4,5 +4,8 @@
   "description": "A simple utility to scrape sites",
   "main": "index.ts",
   "author": "Bipul Adhikari",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
 }
