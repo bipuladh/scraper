@@ -6,10 +6,14 @@
   "author": "Bipul Adhikari",
   "license": "MIT",
   "devDependencies": {
+    "@types/puppeteer": "^5.4.6",
     "ts-node": "^10.8.1",
     "typescript": "^4.7.3"
   },
   "scripts": {
     "start": "./node_modules/.bin/ts-node ./src/index.ts"
+  },
+  "dependencies": {
+    "puppeteer": "^14.2.1"
   }
 }
